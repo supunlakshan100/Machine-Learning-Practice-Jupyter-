@@ -1,0 +1,4 @@
+data manupulation
+data hadeling
+data cleaning
+filling missing vallues
